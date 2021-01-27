@@ -9,7 +9,7 @@
 
 - 📫 Exploring  **Modern Techonogies**
 
-- ⚡ Fun fact **I love make memes & spread smiles**
+- ⚡ Fun fact **I love to make memes & spread smiles**
 
 - ✨ Hobbies: **Teaching, Programming, Reading books**
 
