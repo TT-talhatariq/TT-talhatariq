@@ -5,7 +5,7 @@
 
 - 💻 I’m currently learning **Advance Git, Java**
 
-- 📝 I regularly write articles on [https://talhatariq-tt.medium.com/](xd)
+- 📝 I regularly write articles on [Medium](https://talhatariq-tt.medium.com/)
 
 - 📫 Exploring  **Modern Techonogies**
 
