@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Talha Tariq</h1>
 <h3 align="center">A passionate Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tt-talhatariq&label=Profile%20views&color=0e75b6&style=flat" alt="tt-talhatariq" /> </p>
+
 
 - 🌱 I’m currently learning **Git, Java**
 
