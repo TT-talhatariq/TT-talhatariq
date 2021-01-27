@@ -29,5 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tt-talhatariq&show_icons=true&locale=en&layout=compact" alt="tt-talhatariq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tt-talhatariq&show_icons=true&locale=en" alt="tt-talhatariq" /></p>
-[![Talha's github stats](https://github-readme-stats.vercel.app/api?username=tt-talhatariq&theme=gotham)](https://github.com/tt-talhatariq/github-readme-stats)
-![Talha's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tt-talhatariq&theme=gotham&hide_langs_below=1&layout=compact)
+[![Talha's github stats](https://github-readme-stats.vercel.app/api?username=TT-talhatariq&theme=gotham)](https://github.com/TT-talhatariq/github-readme-stats)
+![Talha's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TT-talhatariq&theme=gotham&hide_langs_below=1&layout=compact)
