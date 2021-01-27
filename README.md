@@ -3,17 +3,16 @@
 
 
 
-- 🌱 I’m currently learning **Git, Java**
+- 💻 I’m currently learning **Git, Java**
 
 - 📝 I regularly write articles on [hatariq-tt.medium.com](hatariq-tt.medium.com)
 
-- 📫 How to reach me **talhacoder01@gmail.com**
+- 📫 Exploring  **Modern Techonogies**
 
-- ⚡ Fun fact **I make meme and spread smiles.**
+- ⚡ Fun fact **I love make memes & spread smiles**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ✨ Hobbies: **Teaching, Programming, Reading books**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tt-talhatariq&show_icons=true&locale=en&layout=compact" alt="tt-talhatariq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tt-talhatariq&show_icons=true&locale=en" alt="tt-talhatariq" /></p>
+[![Talha's github stats](https://github-readme-stats.vercel.app/api?username=tt-talhatariq&theme=gotham)](https://github.com/tt-talhatariq/github-readme-stats)
+![Talha's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tt-talhatariq&theme=gotham&hide_langs_below=1&layout=compact)
