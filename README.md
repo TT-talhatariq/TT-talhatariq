@@ -3,7 +3,7 @@
 
 
 
-- 💻 I’m currently learning **Advance Git, Java**
+- 💻 I’m currently learning **Advance Git, Java, Android development**
 
 - 📝 I regularly write articles on [Medium](https://talhatariq-tt.medium.com/)
 
@@ -11,7 +11,9 @@
 
 - ⚡ Fun fact **I love to make memes & spread smiles**
 
-- ✨ Hobbies: **Teaching, Programming, Reading books**
+- ✨ Hobbies: **Teaching, Programming, Reading books, Blogging**
+
+- 💪 Motives: **Skills Building & Self development of students**
 
 
 <h3 align="left">Connect with me:</h3>
