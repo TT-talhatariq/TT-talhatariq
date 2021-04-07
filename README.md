@@ -26,7 +26,7 @@
 </p>
 
 - ## Projects for community building
-- **Medium Publication**
+- **Medium Publication [Learn and Grow](https://medium.com/learn-and-grow)**
 - **Media & Content Lead at Helping Hands**
 
 <h3 align="left">Languages and Tools:</h3>
