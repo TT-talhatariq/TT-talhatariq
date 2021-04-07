@@ -16,14 +16,28 @@
 - 💪 Motives: **Skills Building & Self development of students**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/talha-tariq-7511631b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="talha-tariq-7511631b0/" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=1000272704422" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="profile.php?id=1000272704422" height="30" width="40" /></a>
-<a href="https://instagram.com/tt_creator123/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tt_creator123/" height="30" width="40" /></a>
-<a href="https://medium.com/@talhatariq-tt.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@talhatariq-tt.medium.com" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bsef19a544" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="bsef19a544" height="30" width="40" /></a>
-</p>
+<div align="center">
+<p align="center">Let's connect!</p>
+<a href="https://twitter.com/Talha_Tariq_TT/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/tt_creator123/?hl=en">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/talha-tariq-7511631b0/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://web.facebook.com/profile.php?id=100027270442218">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://talhatariq-tt.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+</div>
 
 - ## Projects for community building
 - **Medium Publication [Learn and Grow](https://medium.com/learn-and-grow)**
