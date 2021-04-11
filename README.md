@@ -44,6 +44,7 @@
 - **Medium Publication [Learn and Grow](https://medium.com/learn-and-grow)**
 - **Media & Content Lead at Helping Hands**
 - **Delivered 11 Lectures on Programming**
+- **Providing services to multiple socities**
 
 
 <br>
