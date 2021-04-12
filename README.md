@@ -3,11 +3,11 @@
 
 
 
-- 💻 I’m currently learning **Advance Git, Java, Android development**
+- 💻 I’m currently learning **Advance Git, Java**
 
 - 📝 I regularly write articles on [Medium](https://talhatariq-tt.medium.com/)
 
-- 📫 Exploring  **Modern Techonogies**
+- 📫 Exploring  **Modern Techonogies(Data Science, Web Dev)**
 
 - ⚡ Fun fact **I love to make memes & spread smiles**
 
