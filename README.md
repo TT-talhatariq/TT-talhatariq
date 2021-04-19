@@ -7,13 +7,13 @@
 
 - 📝 I regularly write articles on [Medium](https://talhatariq-tt.medium.com/)
 
-- 📫 Exploring  **Modern Techonogies(Data Science, Web Dev)**
+- 📫 Exploring  **Modern Techonogies(Data Science, Web & Android Dev)**
 
 - ⚡ Fun fact **I love to make memes & spread smiles**
 
 - ✨ Hobbies: **Teaching, Programming, Reading books, Blogging**
 
-- 💪 Motives: **Skills Building & Self development of students**
+- 💪 Motives: **Skills Building & Self development of Students**
 
 
 <div align="center">
