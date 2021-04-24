@@ -56,5 +56,5 @@
 [![Talha's github stats](https://github-readme-stats.vercel.app/api?username=TT-talhatariq&theme=gotham)](https://github.com/TT-talhatariq/github-readme-stats)
 ![Talha's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TT-talhatariq&theme=gotham&hide_langs_below=1&layout=compact)
 </details>
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<h2  align="center">💻 Check Out My Projects ⬇️ </h2>
 
