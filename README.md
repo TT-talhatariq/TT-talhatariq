@@ -3,7 +3,7 @@
 
 
 
-- 💻 I’m currently learning **Advance Git, Java**
+- 💻 I’m currently learning **Advance Java and Open Source**
 
 - 📝 I regularly write articles on [Medium](https://talhatariq-tt.medium.com/)
 
