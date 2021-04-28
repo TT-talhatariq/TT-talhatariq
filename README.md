@@ -44,13 +44,13 @@
 - **Medium Publication [Learn and Grow](https://medium.com/learn-and-grow)**
 - **Media & Content Lead at Helping Hands**
 - **Delivered 11 Lectures on Programming**
-- **Providing services to multiple socities**
+- **Providing services to multiple Socities**
 
 
 <br>
 
 <details>
-<summary>📝 My GitHub Stats</summary>
+<summary>📝 My GitHub Stats </summary>
 <br>
 
 [![Talha's github stats](https://github-readme-stats.vercel.app/api?username=TT-talhatariq&theme=gotham)](https://github.com/TT-talhatariq/github-readme-stats)
