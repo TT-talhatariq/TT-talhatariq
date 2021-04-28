@@ -13,7 +13,7 @@
 
 - ✨ Hobbies: **Teaching, Programming, Reading books, Blogging**
 
-- 💪 Motives: **Skills Building & Self development of Students**
+- 💪 Motives: **Skills Building & Self-development of Students**
 
 
 <div align="center">
