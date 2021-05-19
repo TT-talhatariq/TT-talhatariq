@@ -3,7 +3,7 @@
 
 
 
-- 💻 I’m currently learning **Advance Java and Data Science**
+- 💻 Currently, I'm learning **Advance Java and Data Science**
 
 - 📝 I'm regularly writing articles on [Medium](https://talhatariq-tt.medium.com/)
 
