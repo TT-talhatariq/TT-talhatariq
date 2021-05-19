@@ -5,7 +5,7 @@
 
 - 💻 I’m currently learning **Advance Java and Data Science**
 
-- 📝 I regularly write articles on [Medium](https://talhatariq-tt.medium.com/)
+- 📝 I'm regularly writing articles on [Medium](https://talhatariq-tt.medium.com/)
 
 - 📫 Exploring  **Modern Techonologies (Data Science, Web & Android Dev)**
 
