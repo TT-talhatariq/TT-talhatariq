@@ -7,7 +7,7 @@
 
 - 📝 I'm regularly writing articles on [Medium](https://talhatariq-tt.medium.com/)
 
-- 📫 Exploring  **Modern Techonologies (Data Science, Web & Android Dev)**
+- 📫 Exploring  **Modern Techonologies (Data Science, Web Dev)**
 
 - ⚡ Fun fact **I love to make memes & spread smiles**
 
