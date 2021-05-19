@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Talha Tariq</h1>
+<h1 align="center">Hi👋, I'm Talha Tariq</h1>
 <h3 align="center">A Passionate Developer</h3>
 
 
@@ -13,7 +13,7 @@
 
 - ✨ Hobbies: **Teaching, Programming, Reading books, Blogging**
 
-- 💪 Motives: **Skill Building & Self-Development of Students**
+- 💪 Motives: **Skill Building and Self-Development of Students**
 
 
 <div align="center">
