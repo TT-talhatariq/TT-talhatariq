@@ -50,7 +50,7 @@
 <br>
 
 <details>
-<summary>📝 My GitHub Stats </summary>
+<summary>📝 My GitHub stats </summary>
 <br>
 
 [![Talha's github stats](https://github-readme-stats.vercel.app/api?username=TT-talhatariq&theme=gotham)](https://github.com/TT-talhatariq/github-readme-stats)
