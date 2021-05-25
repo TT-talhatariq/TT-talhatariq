@@ -9,7 +9,7 @@
 
 - 📫 Exploring  **Modern Techonologies (Data Science, Web Dev)**
 
-- ⚡ Fun fact **I love to make memes & spread smiles**
+- ⚡ Fun fact **I love to make Memes & spread smiles**
 
 - ✨ Hobbies: **Teaching, Programming, Reading books, Blogging**
 
