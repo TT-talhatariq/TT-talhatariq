@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/tt_creator123/?hl=en">
+<a href="https://www.instagram.com/talha_tariq_tt/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
@@ -45,6 +45,7 @@
 - **Media & Content Writer Lead at Helping Hands**
 - **Delivered 11 Lectures on Programming**
 - **Providing services to multiple Socities**
+- **Did hosting of many events, and workshops**
 
 
 <br>
