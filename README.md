@@ -3,17 +3,12 @@
 
 
 
-- 💻 Currently, I'm learning **Advance Java and Data Science**
+- 💻 Currently, I'm learning **Java GUI Libraries**
 
 - 📝 I'm regularly writing articles on [Medium](https://talhatariq-tt.medium.com/)
 
-- 📫 Exploring  **Modern Techonologies (Data Science, Web Dev)**
-
-- ⚡ Fun fact **I love to make Memes & spread smiles**
-
 - ✨ Hobbies: **Teaching, Programming, Reading books, Blogging**
 
-- 💪 Motives: **Skill Building and Self-Development of Students**
 
 
 <div align="center">
@@ -44,7 +39,7 @@
 - **Medium Publication [Learn and Grow](https://medium.com/learn-and-grow)**
 - **Media & Content Writer Lead at Helping Hands**
 - **Delivered 11 Lectures on Programming**
-- **Providing services to multiple Socities**
+- **Providing services to multiple Societies**
 - **Did hosting of many events, and workshops**
 
 
