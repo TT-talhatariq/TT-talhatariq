@@ -3,7 +3,7 @@
 
 
 
-- 💻 Currently, I'm learning **Java GUI Libraries**
+- 💻 Currently, I'm learning **Java & Front End web Development**
 
 - 📝 I'm regularly writing articles on [Medium](https://talhatariq-tt.medium.com/)
 
@@ -34,16 +34,6 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 </div>
-
-- ## Projects for Community building
-- **Medium Publication [Learn and Grow](https://medium.com/learn-and-grow)**
-- **Media & Content Writer Lead at Helping Hands**
-- **Delivered 11 Lectures on Programming**
-- **Providing services to multiple societies**
-- **Did hosting of many events, and workshops**
-
-<br>
-
 <summary>📝 My GitHub stats </summary>
 <br>
  
