@@ -3,7 +3,7 @@
 
 
 
-- 💻 Currently, I'm exploring and learning **Web Development**
+- 💻 Currently, I'm exploring and learning **Front-end Web Development**
 
 - 📝 I'm regularly writing articles on [Medium](https://talhatariq-tt.medium.com/)
 
