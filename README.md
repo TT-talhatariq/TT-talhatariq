@@ -7,7 +7,7 @@
 
 - 📝 I'm regularly writing articles on [Medium](https://talhatariq-tt.medium.com/)
 
-- ✨ Hobbies: **Teaching, Programming, Reading books, Blogging**
+- ✨ Hobbies: **Teaching, Programming, Book reading, Blogging**
 
 
 
