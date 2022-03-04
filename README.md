@@ -5,9 +5,9 @@
 
 - 💻 Currently, I'm exploring and learning **Front-end Web Development**
 
-- 📝 I'm regularly writing articles on [Medium](https://talhatariq-tt.medium.com/)
+- 📝 I'm regularly writing articles about Techonology & Personal Development on [Medium](https://talhatariq-tt.medium.com/)
 
-- ✨ Hobbies: **Teaching, Programming, Book reading, Blogging**
+- ✨ Hobbies: **Teaching, Coding, Book reading, Blogging**
 
 
 
