@@ -3,7 +3,7 @@
 
 
 
-- 💻 Currently, I'm exploring and learning **Front-end Web Development & Problem Solving**
+- 💻 Currently, I'm exploring and learning **JavaScript & Problem Solving**
 
 - 📝 I'm regularly writing articles about Techonology & Personal Development on [Medium](https://talhatariq-tt.medium.com/)
 
