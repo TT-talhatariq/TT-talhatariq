@@ -34,11 +34,11 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 </div>
-<div  align="center">
 <summary>📝 My GitHub stats </summary>
 <br>
  
 ![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=TT-talhatariq&show_icons=true&theme=radical)
+<div  align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TT-talhatariq&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
     </div>
 
