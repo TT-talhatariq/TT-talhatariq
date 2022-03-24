@@ -38,5 +38,6 @@
 <br>
  
 ![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=TT-talhatariq&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TT-talhatariq&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <h2  align="center">💻 Check Out My Projects ⬇️ </h2>
