@@ -7,8 +7,9 @@
 
 - 📝 I'm regularly writing articles about Techonology & Personal Development on [Medium](https://talhatariq-tt.medium.com/)
 
-- ✨ Hobbies: **Teaching, Coding, Book reading, Blogging**<br>
+- ✨ Hobbies: **Teaching, Coding, Book reading, Blogging**<br><br>
 ![Talha](https://komarev.com/ghpvc/?username=TT-talhatariq&style=flat-square)
+
 
 
 <div align="center">
