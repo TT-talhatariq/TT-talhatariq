@@ -3,7 +3,7 @@
 
 
 
-- 💻 Currently, I'm exploring and learning **JavaScript(ES6) & Problem Solving Skills (Java)**
+- 💻 Currently, I'm exploring and learning **JavaScript(ES6)** and working on becoming a **Problem Solver**
 
 - 📝 I'm regularly writing articles about Techonology & Personal Development on [Medium](https://talhatariq-tt.medium.com/)
 
