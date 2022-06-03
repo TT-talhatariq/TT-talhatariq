@@ -3,7 +3,7 @@
 
 
 
-- 💻 Currently, I'm exploring and learning **Web Development** Technologies.
+- 💻 Currently, I'm exploring and learning Full stack **Web Development** Technologies.
 
 - 📝 I'm regularly writing articles about Techonology & Personal Development on [Medium](https://talhatariq-tt.medium.com/)
 
