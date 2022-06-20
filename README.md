@@ -35,12 +35,10 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 </div>
-<br><br<
-    
-| [![stats](https://github-readme-stats.vercel.app/api?username=TT-talhatariq&count_private=true&show_icons=true&locale=en&theme=blueberry)](https://github-readme-stats.vercel.app/api?username=TT-talhatariq&count_private=true) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TT-talhatariq&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
------------- | -------------
-    
-<br>
+<br><br>
+
+
+[![stats](https://github-readme-stats.vercel.app/api?username=TT-talhatariq&count_private=true&show_icons=true&locale=en&theme=blueberry)](https://github-readme-stats.vercel.app/api?username=TT-talhatariq&count_private=true)  |  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TT-talhatariq&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 <br>
 
 
