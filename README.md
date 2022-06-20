@@ -42,7 +42,7 @@
 <br>
 
 
-[![NumanAnees's github activity graph](https://activity-graph.herokuapp.com/graph?username=TT-talhatariq&theme=react-dark&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=NumanAnees&theme=react-dark&count_private=true)
+[![Talha's github activity graph](https://activity-graph.herokuapp.com/graph?username=TT-talhatariq&theme=react-dark&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=TT-talhatariq&theme=react-dark&count_private=true)
 <br>
 
 <h2  align="center">💻 Check Out My Projects ⬇️ </h2>
