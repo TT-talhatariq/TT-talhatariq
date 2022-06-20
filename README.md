@@ -36,7 +36,7 @@
 </a>
 </div>
 <br><br>
-
+<h2  align="left"> 👩‍💻My GitHub Stats </h2>
 
 [![stats](https://github-readme-stats.vercel.app/api?username=TT-talhatariq&count_private=true&show_icons=true&locale=en&theme=blueberry)](https://github-readme-stats.vercel.app/api?username=TT-talhatariq&count_private=true)  |  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TT-talhatariq&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 <br>
