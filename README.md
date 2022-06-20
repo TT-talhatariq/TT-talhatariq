@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Talha Tariq</h1>
-<h3 align="center">A passionate <b>Developer<b> having a learning oriented mind</h3>
+<h3 align="center">A Passionate <b>Developer<b> having a learning oriented mind</h3>
 
 
 
@@ -35,13 +35,16 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 </div>
-<summary>📝 My GitHub stats </summary>
+<br><br<
+    
+| [![stats](https://github-readme-stats.vercel.app/api?username=TT-talhatariq&count_private=true&show_icons=true&locale=en&theme=blueberry)](https://github-readme-stats.vercel.app/api?username=TT-talhatariq&count_private=true) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TT-talhatariq&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
+------------ | -------------
+    
 <br>
- 
-![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=TT-talhatariq&show_icons=true&theme=radical)
-<div  align="center">
+<br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TT-talhatariq&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-    </div>
+
+[![NumanAnees's github activity graph](https://activity-graph.herokuapp.com/graph?username=TT-talhatariq&theme=react-dark&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=NumanAnees&theme=react-dark&count_private=true)
+<br>
 
 <h2  align="center">💻 Check Out My Projects ⬇️ </h2>
