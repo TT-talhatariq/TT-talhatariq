@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Talha Tariq</h1>
-<h3 align="center">A Passionate <b>Developer<b> having a learning oriented mind</h3>
+<h4 align="center">A Passionate <b>Developer<b> having a learning oriented mind</h4>
 
-
+<h3>About Me</h3>
 
 - 💻 Currently, I'm exploring and learning Full stack **Web Development** Technologies.
 
@@ -36,10 +36,40 @@
 </a>
 </div>
 <br><br>
-<h2  align="left"> 👩‍💻My GitHub Stats </h2>
+    
+<details>
+<summary><big><strong>📈 Stats</big></summary>
+    
+[![Stats](https://github-readme-stats.vercel.app/api?username=TT-talhatariq&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TT-talhatariq&layout=compact&theme=radical&custom_title=Most%20Used%20Languages%20In%20Repos&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![stats](https://github-readme-stats.vercel.app/api?username=TT-talhatariq&count_private=true&show_icons=true&locale=en&theme=blueberry)](https://github-readme-stats.vercel.app/api?username=TT-talhatariq&count_private=true)  |  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TT-talhatariq&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+</details>
+
+---
+
+<details>
+<summary><big><strong>📝 Blogs</big></summary>
+
+- [How’s Naming Techniques can Help You in Writing Readable Code?](https://medium.com/nerd-for-tech/hows-the-better-naming-can-help-you-in-programming-d19e1ad7246d)
+
+- [How’s the cin Object & Insertion (>>) Operator Work in Backend in C++?](https://medium.com/learn-and-grow/hows-the-cin-object-insertion-operator-works-in-backend-in-c-647ff4ec03da)
+    
+- [Importance of Data Structures & Free Resources to Learn it.](https://medium.com/learn-and-grow/importance-of-data-structures-free-resources-to-learn-it-84352af32fa9)
+ 
+ - [Stack ADT](https://talhatariq-tt.medium.com/stack-adt-fcb0da7ba520)
+    
+   
+ </details> 
+
 <br>
+    
+<div align="center">
+    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TT-talhatariq&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+
+    
+</div>
+     <br>
+     
 
 
 [![Talha's github activity graph](https://activity-graph.herokuapp.com/graph?username=TT-talhatariq&theme=react-dark&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=TT-talhatariq&theme=react-dark&count_private=true)
