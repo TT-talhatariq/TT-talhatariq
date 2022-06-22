@@ -40,7 +40,7 @@
 <details>
 <summary><big><strong>📈 Stats</big></summary>
     
-[![Stats](https://github-readme-stats.vercel.app/api?username=TT-talhatariq&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TT-talhatariq&layout=compact&theme=radical&custom_title=Most%20Used%20Languages%20In%20Repos&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=TT-talhatariq&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TT-talhatariq&layout=compact&theme=radical&custom_title=Most%20Used%20Languages%20In%20Repos&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
