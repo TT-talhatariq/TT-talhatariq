@@ -5,9 +5,9 @@
 
 - 💻 Currently, I'm exploring and learning MERN Stack **Web Development** Technologies.
 
-- 📝 I'm regularly writing articles about Techonology & Personal Development on [Medium](https://talhatariq-tt.medium.com/)
+- 📝 I am writing articles regularly about Techonology & Personal Development on [Medium](https://talhatariq-tt.medium.com/)
 
-- ✨ Hobbies: **Teaching, Book reading, Blogging, and Overthinking**<br><br>
+- ✨ Hobbies: **Teaching, Book reading, Overthinking, Watching Podcast and Writing my Thoughts**<br><br>
 ![Talha](https://komarev.com/ghpvc/?username=TT-talhatariq&style=flat-square)
 
 
