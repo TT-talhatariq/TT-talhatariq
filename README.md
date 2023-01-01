@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Talha Tariq</h1>
-<h4 align="center">A Passionate <b>Developer<b> having a learning oriented mind</h4>
+<h4 align="center">A Passionate <b>Developer<b> with a learning oriented mind</h4>
 
 <h3>About Me</h3>
 
