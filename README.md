@@ -3,7 +3,7 @@
 
 <h3>About Me</h3>
 
-- 💻 Currently, I'm exploring and learning MERN Stack **Web Development** Technologies.
+- 💻 A **Front-end Engineer** using multiple Technologies.
 
 - 📝 I am writing articles regularly about Techonology & Personal Development on [Medium](https://talhatariq-tt.medium.com/)
 
